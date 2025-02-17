@@ -37,7 +37,7 @@ in ltspice by varying ratio by trail and error method we can find desired curren
 
 ![1000036741](https://github.com/user-attachments/assets/88a03f49-e208-4333-a357-6cc5e642e1c5)
 
-### The tried ratios of W/L
+### The trail ratios of W/L:
 
 ![1000036742](https://github.com/user-attachments/assets/5f0e45f9-fa6c-45e8-899b-3446235fe36a)
 
@@ -46,6 +46,11 @@ in ltspice by varying ratio by trail and error method we can find desired curren
 ![1000036745](https://github.com/user-attachments/assets/426170aa-608c-49f8-90a4-0105ed707bf2)
 
 ![1000036744](https://github.com/user-attachments/assets/f1a3af9f-fd9c-44dd-952d-e36cc72ca7b3)
+
+![1000036746](https://github.com/user-attachments/assets/609481c8-3331-4823-9547-5fcf0df862ba)
+
+![1000036747](https://github.com/user-attachments/assets/a64e3ad0-98bf-4032-8c4a-6544ded56662)
+
 
 
 
