@@ -108,8 +108,19 @@ Amplitude : 50mv , Frequency : 1KHz. vb=?
 
 ![1000036782](https://github.com/user-attachments/assets/88924fed-456f-4bea-bab8-1d102d8de096)
 
+## 2.AC Analysis 
 
+![1000036783](https://github.com/user-attachments/assets/1e00d3cd-741f-4eff-b62d-55e3f9308d1a)
 
+## 3.Transient analysis
+
+Vout
+
+![1000036784](https://github.com/user-attachments/assets/62a82ed9-acbf-466e-ac56-9f3ce5dbd46e)
+
+Vin
+
+![1000036785](https://github.com/user-attachments/assets/0326be38-5b4a-44db-87e7-541a9e9d0dbe)
 
 
  # Inference 
