@@ -127,23 +127,35 @@ Vin
 
 In this experiment, we analyzed a Common Source Amplifier using DC, AC, and Transient analysis to understand its behavior.
 
-1. DC Analysis:
+1. DC Analysis
 
-We calculated the operating point (Q-point) and confirmed that the NMOS transistor is in saturation region with Vd = 1.77V and Id = 27.73 µA.
+The biasing conditions were determined, ensuring that the NMOS transistor operates in the saturation region.
 
-By varying the W/L ratio in LTspice, we matched our theoretical values.
+The operating point (Q-point) was verified with expected values of Id = 27.73 µA and Vd = 1.77V, confirming the correctness of theoretical calculations.
 
-2. AC Analysis:
+The W/L ratio was adjusted experimentally in LTSpice to achieve the desired drain current, showing how transistor sizing affects circuit performance.
 
-We tested the amplifier’s response across different frequencies using a decade sweep (0.1 Hz to 1 THz) to analyze its performance.
+2. AC Analysis
 
-3. Transient Analysis:
+The amplifier's frequency response was examined using a decade sweep from 0.1 Hz to 1 THz to understand gain variations across different frequencies.
 
-We applied a sinusoidal input (50mV, 1kHz) and observed the amplified output.
+The gain (Av) was theoretically calculated using gmRd, and the measured gain matched expectations, validating the small-signal model approach.
 
-The gain was Av = 0.1, matching the theoretical value (Av = gmRd).
+3. Transient Analysis
 
-The output signal showed a 180-degree phase shift, which is a key characteristic of a Common Source Amplifier.
+A sinusoidal input with DC offset = 0.9V, amplitude = 50mV, and frequency = 1kHz was applied.
+
+The amplifier exhibited a 180-degree phase shift, confirming the inverting nature of the Common Source Amplifier.
+
+The measured gain of 0.1 matched theoretical predictions, proving the circuit's correct operation.
+
+4. Comparison of Resistor Load vs. PMOS Load
+
+The second circuit replaces the drain resistor with a PMOS transistor, forming an active load.
+
+This likely improves gain and output swing, as PMOS active loads provide higher resistance compared to a simple resistor.
+
+The bias voltage Vb for PMOS must be chosen properly to maintain it in the saturation region, ensuring proper amplification.
 
 ## Conclusion:
 Our analysis confirmed that the amplifier works as expected, with proper biasing, frequency response, and signal amplification.
