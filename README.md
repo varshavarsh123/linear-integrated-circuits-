@@ -56,6 +56,8 @@ in ltspice by varying ratio by trail and error method we can find desired curren
  and current Id 27.73×10^-6A
  as we expected in our Calculation
  for the power dissipation 50u w.
+ and as we calculated and verified in our calculation this DC Operating point confirms that NMOS
+ Operates in saturation region. 
  
  
  
