@@ -51,7 +51,13 @@ in ltspice by varying ratio by trail and error method we can find desired curren
 
 ![1000036747](https://github.com/user-attachments/assets/a64e3ad0-98bf-4032-8c4a-6544ded56662)
 
-
-
+###  From Analysis 
+ we got out voltage 1.77v
+ and current Id 27.73×10^-6A
+ as we expected in our Calculation
+ for the power dissipation 50u w.
+ 
+ 
+ 
 
 
