@@ -102,11 +102,13 @@ Amplitude : 50mv , Frequency : 1KHz. vb=?
 
 ## Calculation
 
-
+![1000036797](https://github.com/user-attachments/assets/b90a2333-fbeb-4b76-828b-312f99b4ac0c)
 
 ## 1.DC Analysis 
 
 ![1000036782](https://github.com/user-attachments/assets/88924fed-456f-4bea-bab8-1d102d8de096)
+
+
 
 
 
