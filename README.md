@@ -88,6 +88,28 @@ This matches the theoritical value which is calculated by Av = gmRd.
 where gm= KnVov
 From the graph we can observe that there is 180 degree phase shift which is exhibited by Common Source Amplifier.
 
+# Experiment-01
+# DC ,AC,Transient Analysis of Common Source Amplifier Circuit-2
+ 
+![1000036781](https://github.com/user-attachments/assets/529763a2-620b-40b8-ae98-af67c71a45e3)
+
+In this circuit the resistor is replaced by pmos transistor.
+
+This circuit consist of TSMC 180nm NMOS and PMOS transistor (CMOSN) , drain resistor and voltage sources (V1 & V2) .
+Threshold voltage : 0.36v,
+Supply voltage : 1.8v , input voltage :0.9v
+Amplitude : 50mv , Frequency : 1KHz. vb=?
+
+## Calculation
+
+
+
+## 1.DC Analysis 
+
+![1000036782](https://github.com/user-attachments/assets/88924fed-456f-4bea-bab8-1d102d8de096)
+
+
+
  # Inference 
 
 In this experiment, we analyzed a Common Source Amplifier using DC, AC, and Transient analysis to understand its behavior.
@@ -114,5 +136,10 @@ The output signal showed a 180-degree phase shift, which is a key characteristic
 Our analysis confirmed that the amplifier works as expected, with proper biasing, frequency response, and signal amplification.
 
 
- 
+
+
+
+
+
+
 
