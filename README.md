@@ -87,6 +87,33 @@ Av= (1.777-1.767)v/(950m-850m)v= 0.1
 This matches the theoritical value which is calculated by Av = gmRd.
 where gm= KnVov
 From the graph we can observe that there is 180 degree phase shift which is exhibited by Common Source Amplifier.
+
+ # Inference 
+
+In this experiment, we analyzed a Common Source Amplifier using DC, AC, and Transient analysis to understand its behavior.
+
+1. DC Analysis:
+
+We calculated the operating point (Q-point) and confirmed that the NMOS transistor is in saturation region with Vd = 1.77V and Id = 27.73 µA.
+
+By varying the W/L ratio in LTspice, we matched our theoretical values.
+
+2. AC Analysis:
+
+We tested the amplifier’s response across different frequencies using a decade sweep (0.1 Hz to 1 THz) to analyze its performance.
+
+3. Transient Analysis:
+
+We applied a sinusoidal input (50mV, 1kHz) and observed the amplified output.
+
+The gain was Av = 0.1, matching the theoretical value (Av = gmRd).
+
+The output signal showed a 180-degree phase shift, which is a key characteristic of a Common Source Amplifier.
+
+## Conclusion:
+Our analysis confirmed that the amplifier works as expected, with proper biasing, frequency response, and signal amplification.
+
+
  
 
 
