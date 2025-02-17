@@ -59,7 +59,34 @@ in ltspice by varying ratio by trail and error method we can find desired curren
  and as we calculated and verified in our calculation this DC Operating point confirms that NMOS
  Operates in saturation region. 
  
- 
+ ## 2.AC Analysis 
+
+Output 
+![1000036750](https://github.com/user-attachments/assets/0f7df383-24da-49b0-9aa5-e33826fb278b)
+
+In AC analysis, we test how a circuit behaves at different frequencies to see where it works well as an amplifier.
+
+We do this by gradually increasing the frequency in steps of 10 times (decade sweep), starting from 0.1 Hz and going up to 1 THz.
+
+## 3.Transient Analysis 
+
+ Vout 
+
+ ![1000036749](https://github.com/user-attachments/assets/9efcc9c7-51bb-4a5a-a08d-f1ac0b95350a)
+
+ Vin
+
+ ![1000036748](https://github.com/user-attachments/assets/fa21d3aa-5719-4981-9d4e-411de5a72357)
+
+![1000036751](https://github.com/user-attachments/assets/f8290d9f-2d08-4197-8e6e-f22ef829bcda)
+
+ In this analysis we determine the gain of the circuit. for input give sinusoidal voltage signal where the DC offset is 0.9v ,Frequency is 1kHz and Ac amplitude is 50m.select the stop time to 1ms.
+
+Gain = Vin/Vout
+Av= (1.777-1.767)v/(950m-850m)v= 0.1
+This matches the theoritical value which is calculated by Av = gmRd.
+where gm= KnVov
+From the graph we can observe that there is 180 degree phase shift which is exhibited by Common Source Amplifier.
  
 
 
