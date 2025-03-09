@@ -204,5 +204,23 @@ From the graph , the gain in dB scale is 10.457dB - 3dB =7.457db
 
 The value for Vb is given by Vb=Vtn+Vp=0.489+0.6=1.089V
 
+In this circuit, an NMOS transistor (M3) is used in place of the current source (Iss) and resistor (Rss). However, to maintain the same operating point, the drain current of M3 must still be equal to Iss = 0.875mA.
 
+Since the circuit remains symmetrical, the values of Rd1 and Rd2 remain unchanged at 3428Ω. This is because the same drain currents (Id1 and Id2) continue to flow through the differential pair, and the voltage conditions remain the same.
 
+Also,
+
+Vds = Vocm - Vp = 1.1V
+
+Vgs = Vicm - Vp = 1V
+
+1. **Build your circuit** and choose the resistors you'll use.
+2. **Set an initial gate voltage** (Vg) for the MOSFET.
+3. **Open LTspice** and add the directive `.lib tsmc018.lib` and `.step param V 0V 5V`.
+4. **Set MOSFET dimensions**: Right-click the MOSFET, set length (L) to 180nm and width (W) to 2525nm.
+5. **Run a DC simulation**, and you'll see a graph.
+6. **Find the drain current**: Move your cursor to the MOSFET's drain to see the current.
+7. **Adjust the graph**: Right-click, select "Add Traces", and set the drain current to 0.875mA.
+8. **Find the gate voltage (Vg)**: Use the cursor to find where the lines meet; this intersection is around 1.432V.
+9. **Set the gate voltage (Vg) to 1.432V**.
+10. **Run the simulation again** to check the results.
