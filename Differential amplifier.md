@@ -67,6 +67,8 @@ Rss=Vp/Iss
 
 Rss=685.7ohm
 
+![1000039896](https://github.com/user-attachments/assets/e358409b-44a5-4e67-b3e2-c2a059c9af55)
+
 
 
 
