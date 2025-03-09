@@ -61,7 +61,8 @@ Rd=(Vdd-Vocm)/I1
 Rd=(3.2-1.7)/0.4375x10^-3
 
 Rd=3428ohm
-Rss=Vp/Iss = 0.6/0.875m
+Rss=Vp/Iss 
+= 0.6/0.875m
 
 Rss=685.7ohm
 
