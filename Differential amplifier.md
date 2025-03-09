@@ -1,3 +1,4 @@
+![1000039993](https://github.com/user-attachments/assets/b34467a8-9c60-49eb-8fb7-1b136648259d)
 # Experiment:03
 # Analysis of differential amplifier 
 
