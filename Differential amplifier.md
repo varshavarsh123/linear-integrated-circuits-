@@ -99,6 +99,23 @@ The give Vicm is 1.6 v let change it by increasing 1v and let observe the change
 As we can observe that the  current  is greater than o.4375mA
 which is out of our power power budget hence its not useful for our design .A we can see Vp is also increased .
 
+##Calculate maximum input swing and output swing
+
+VICMmin = VT + VP (We are observing the condition of cut-off)
+
+VT = 0.489 V , VP = 0.6 V
+VICMmin = 1.089 V
+
+VICMmax = VOCM + VT (We are observing the condition of MOSFET getting out of saturation region)
+
+VT = 0.489V , VOCM = 1.7 V
+VICMmax = 2.189V
+
+Any inputs that makes the gate voltage less than this value will give clipped output.
+
+# Transient Analysis  
+
+
 
 
 
