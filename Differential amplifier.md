@@ -200,5 +200,9 @@ From the graph , the gain in dB scale is 10.457dB - 3dB =7.457db
 
 # Case 3 replace Rs by MOSFET
 
+![1000039991](https://github.com/user-attachments/assets/4a02a69d-7fce-4e36-8fce-dbdf575afad5)
+
+The value for Vb is given by Vb=Vtn+Vp=0.489+0.6=1.089V
+
 
 
