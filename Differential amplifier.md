@@ -77,9 +77,16 @@ Rss=0.6857kohm
 
 Now we set DC Operating Point of the circuit
 
+
+
 ![1000040002](https://github.com/user-attachments/assets/6c1601eb-ee81-43cc-87e6-ffd6c1921760)
 
 But for the exact output voltage of 1.7 v we get little more current where it exceeds our power budget .Hence by varying w and l we have to set Operating point under our power budget .
+
+![1000039975](https://github.com/user-attachments/assets/de853bf4-8931-4a67-acaa-efdd59690cee)
+
+![1000039977](https://github.com/user-attachments/assets/887b6a46-aee2-4fa8-9cca-5e375b7bd470)
+
 
 
 
