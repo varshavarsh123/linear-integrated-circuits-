@@ -117,15 +117,15 @@ Any inputs that makes the gate voltage less than this value will give clipped ou
 
 Now we are ready for transient analysis, we take an input of 50mV (Amplitude) and 1.6 of dc offset  
 
-##Input 
+## Input 
 
 ![1000039973](https://github.com/user-attachments/assets/cf1fb8e0-1f9c-4737-a786-295f158e558b)
 
-#Output
+## Output
 
 ![1000040010](https://github.com/user-attachments/assets/ee5893e7-9b58-41ad-a71e-12502166dffd)
 
-#Both
+## Both
 
 ![1000040011](https://github.com/user-attachments/assets/63a73331-2677-439b-b6c9-244ca8817932)
 
@@ -137,7 +137,7 @@ Av= -1.389 V/V
 
 nagetive sing inticates 180 degree phase shift  
 
-#AC Analysis
+# AC Analysis
 
 
 
