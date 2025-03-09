@@ -1,4 +1,4 @@
-![1000039993](https://github.com/user-attachments/assets/b34467a8-9c60-49eb-8fb7-1b136648259d)
+
 # Experiment:03
 # Analysis of differential amplifier 
 
@@ -225,3 +225,13 @@ Vgs = Vicm - Vp = 1V
 8. **Find the gate voltage (Vg)**: Use the cursor to find where the lines meet; this intersection is around 1.432V.
 9. **Set the gate voltage (Vg) to 1.432V**.
 10. **Run the simulation again** to check the results.
+
+
+![1000039993](https://github.com/user-attachments/assets/31e3c899-18bc-4ae5-9a4f-c877cc0b2987)
+
+Here we can see Id = 0.437425mA , Vds = 1.70051-0.5991 = 1.1V (Vds = Vd-Vs), Id(M3)=0.874851V Vp = 0.5991V and Vocm = 1.70051V ,which is equal to the analysis we have done.
+
+# Transient analysis 
+
+![1000040011](https://github.com/user-attachments/assets/ae8ec9bf-2310-4770-b7bf-e4f14257a08d)
+
