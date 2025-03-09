@@ -50,11 +50,11 @@ since p=VddxIss
 
 Iss = p/Vdd = 2.8m/3.2 = 0.875mA
 
-I1=I2=Iss/2 = 0.4375mA
+Id1=Id2=Iss/2 = 0.4375mA
 
 Applying KVL along the loop
 
-Vdd-I1Rd-Vocm1=0
+Vdd-Id1×Rd-Vocm1=0
 
 Rd=(Vdd-Vocm)/I1
 
