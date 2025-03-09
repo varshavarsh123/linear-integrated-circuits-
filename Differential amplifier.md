@@ -68,10 +68,18 @@ Rss=Vp/Iss
 Rss=0.6857kohm
 
 
-# Case 1
+# Case 1  with Rss
 
 
 ![1000039896](https://github.com/user-attachments/assets/e358409b-44a5-4e67-b3e2-c2a059c9af55)
+
+# DC Analysis
+
+Now we set DC Operating Point of the circuit
+
+![1000040002](https://github.com/user-attachments/assets/6c1601eb-ee81-43cc-87e6-ffd6c1921760)
+
+But for the exact output voltage of 1.7 v we get little more current where it exceeds our power budget .Hence by varying w and l we have to set Operating point under our power budget .
 
 
 
