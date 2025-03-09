@@ -158,6 +158,10 @@ From the graph the gain in db scale is 11.183db-3db= 8.183db
 
 
 
+When you swap out resistor \(R3\) for a current source (\(I_{SS}\)), the circuit becomes a fully differential pair with an active current source. This change boosts the circuit's gain and improves its ability to block common signals that both inputs receive (CMRR). The current source ensures a steady bias current, making the circuit more stable even if component values change. Without \(R3\), the transconductance (\(g_m\)) increases, resulting in a higher differential gain, which is calculated by \(A_d = g_m \cdot r_d\).
+
+
+
 
 
 
