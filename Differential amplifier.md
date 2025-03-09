@@ -52,7 +52,7 @@ Iss = p/Vdd = 2.8m/3.2 = 0.875mA
 
 Id1=Id2=Iss/2 = 0.4375mA
 
-Applying KVL along the loop
+Applying KVL for the loop
 
 Vdd-Id1×Rd-Vocm1=0
 
@@ -60,12 +60,12 @@ Rd=(Vdd-Vocm)/I1
 
 Rd=(3.2-1.7)/0.4375x10^-3
 
-Rd=3428ohm
+Rd=3.428kohm
 
 Rss=Vp/Iss 
 = 0.6/0.875m
 
-Rss=685.7ohm
+Rss=0.6857kohm
 
 ![1000039896](https://github.com/user-attachments/assets/e358409b-44a5-4e67-b3e2-c2a059c9af55)
 
