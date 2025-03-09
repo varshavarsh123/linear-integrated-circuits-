@@ -154,11 +154,33 @@ From the graph the gain in db scale is 11.183db-3db= 8.183db
 
 # Case 2 replace Rss with current source 
 
-# DC Analysis 
 
+![1000040014](https://github.com/user-attachments/assets/2c4d5a2d-9496-48c9-a9d2-6c9d1a9b1e5b)
 
 
 When you swap out resistor R3 for a current source , the circuit becomes a fully differential pair with an active current source. This change boosts the circuit's gain and improves its ability to block common signals that both inputs receive (CMRR). The current source ensures a steady bias current, making the circuit more stable even if component values change. Without R, the transconductance gm increases, resulting in a higher differential gain.
+
+# DC Analysis 
+
+![1000039957](https://github.com/user-attachments/assets/1669687d-de77-48c8-8059-dae5942f3407)
+
+for mosfet M1 & M2:
+
+Vocm = 1.70025v
+
+ViCM = 1.6V
+
+Id= 0.4375 mA
+
+Vtn = 0.489v
+
+VGS = 1.6 - 0.593613 = 1.01V
+
+VDD = IdRd + VDS +Vp
+
+VDS = 1.11
+
+The Q-point of both the mosfets are (1.1V, 0.4375mA).
 
 
 
