@@ -96,6 +96,8 @@ The give Vicm is 1.6 v let change it by increasing 1v and let observe the change
 
 ![1000039985](https://github.com/user-attachments/assets/81bbf5d4-b481-4a21-96ee-4965a1fcad2e)
 
+As we can observe that the  current  is greater than o.4375mA
+which is out of our power power budget hence its not useful for our design .A we can see Vp is also increased .
 
 
 
