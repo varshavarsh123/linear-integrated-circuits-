@@ -35,6 +35,9 @@ It's useful in reducing noise and is commonly used in devices like op-amps and c
 
 Let's assume for the moment that the transistors are in saturation. The equation for saturation-mode drain current is:
 
+![17415142999093036009038723477340](https://github.com/user-attachments/assets/9c6d118e-2a50-40a6-adb4-bd2360cf2526)
+
+
 
 
 Given that the drain current is already established by the current source and the gates are tied to the ground node, the source voltage will settle on whatever value creates a gate-to-source voltage V_gs corresponding to a drain current of I_bias/2
