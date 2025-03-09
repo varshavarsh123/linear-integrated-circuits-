@@ -241,4 +241,6 @@ From obove graph the amplitude of the output waveform is 1.7901093-1.6971968 = 0
 
 ![1000040017](https://github.com/user-attachments/assets/7fee3cf7-5f49-44df-9894-1e32b51c5a51)
 
+From the analysis of graph  we observe that the maximum midband gain is 5.1869dB, and after subtracting 3 dB, the expected gain should be 2.1869dB
+
 
