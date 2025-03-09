@@ -18,7 +18,8 @@ It's useful in reducing noise and is commonly used in devices like op-amps and c
 
 # Circuit diagram 
 
-![Uploading 1000039886.jpg…]()
+![1000039886](https://github.com/user-attachments/assets/01eaaf94-55dd-41bd-9024-965bf245c438)
+
 
 
 
