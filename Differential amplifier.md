@@ -243,4 +243,66 @@ From obove graph the amplitude of the output waveform is 1.7901093-1.6971968 = 0
 
 From the analysis of graph  we observe that the maximum midband gain is 5.1869dB, and after subtracting 3 dB, the expected gain should be 2.1869dB
 
+# Inference 
+
+Inference for the MOS Differential Amplifier Experiment
+
+The experiment analyzed three versions of a MOS differential amplifier:
+
+1. With Resistor (Rss) as Tail Current Source
+
+2. With Ideal Current Source (Iss)
+
+3. With NMOS Transistor (M3) as Tail Current Source
+
+Expected Outcome:
+
+The gain should improve as we move from Rss → Iss → NMOS, since a higher tail impedance ideally increases gain.
+
+Observed Outcome:
+
+The circuit with Rss had the highest gain instead of the expected increase with Iss or NMOS.
+
+The gain did not improve significantly with Iss or NMOS.
+
+Possible Reasons for Deviation
+
+1. Parasitic Capacitances
+
+MOSFETs have intrinsic source/drain capacitances that introduce unwanted effects, reducing gain.
+
+These parasitics impact circuits using current sources (Iss or NMOS) more than simple resistor biasing.
+
+2. Non-Ideal Tail Current Source
+
+Ideal Iss should provide infinite impedance, but practical implementations have limitations.
+
+NMOS as a current source introduces channel-length modulation, reducing its effective impedance.
+
+3. Mismatch Between Theory and Practical Results
+
+Theoretical calculations assume ideal MOSFETs, while real MOSFETs suffer from process variations, threshold voltage shifts, and finite output resistance.
+
+These non-idealities limit the expected performance improvement.
+
+Conclusion
+
+The resistor-based circuit performed better than expected, likely due to reduced parasitic effects.
+
+Current source implementations require optimization to minimize losses.
+
+For better gain, cascoded current sources or improved biasing techniques may be needed.
+
+Comparison of MOS Differential Amplifier Configurations
+
+Expected: Gain should improve as we move from Rss → Iss → NMOS.
+
+Observed: The resistor-based design (Rss) unexpectedly performed better than both current-source-based designs.
+
+Main Causes: Practical limitations like MOSFET parasitics, finite output resistance, and non-ideal biasing affected performance.
+
+
+
+
+
 
