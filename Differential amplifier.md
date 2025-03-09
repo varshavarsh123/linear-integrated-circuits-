@@ -182,7 +182,23 @@ VDS = 1.11
 
 The Q-point of both the mosfets are (1.1V, 0.4375mA).
 
+# Transient Analysis 
 
+![1000039955](https://github.com/user-attachments/assets/47221451-e754-494f-ae41-8fc71d6b514f)
+
+From the above observation
+
+Gain Av=Vout(peak)/Vin(peak)
+Av=1.863/1.65=1.129V/V
+
+# AC Analysis
+
+![1000039983](https://github.com/user-attachments/assets/5f981235-1611-4535-8fc4-7c97cd2c85c2)
+
+From the graph , the gain in dB scale is 10.457dB - 3dB =7.457db
+
+
+# Case 3 replace Rs by MOSFET
 
 
 
