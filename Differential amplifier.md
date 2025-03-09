@@ -235,7 +235,7 @@ Here we can see Id = 0.437425mA , Vds = 1.70051-0.5991 = 1.1V (Vds = Vd-Vs), Id(
 
 ![1000040011](https://github.com/user-attachments/assets/ae8ec9bf-2310-4770-b7bf-e4f14257a08d)
 
-From obove graph the amplitude of the output waveform is 1.7901093-1.6971968 = 0.0929125V. The input amplitude is 50mV so Gain, Av = -Vout/Vin = -0.0929125V/50mV = -1.85825. Therefore, Gain,Av = -1.85825.
+From obove graph the amplitude of the output waveform is 1.7601093-1.6571968 = 0.0929125V. The input amplitude is 50mV so Gain, Av = -Vout/Vin = -0.0929125V/50mV = -1.85825. Therefore, Gain,Av = -1.85825.
 
 # AC Analysis 
 
