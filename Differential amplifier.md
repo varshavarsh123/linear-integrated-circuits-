@@ -92,6 +92,14 @@ Now this Operating point is under our power budget .
 In the data sheet of ltspice the treshold voltage mentioned as 0.366v
 but while doing dc analysis the treshold voltage is changed to 0.489v thi is due to body effect.
 
+Also we have to verify that the transistor is working in saturation region, this can be done by checking that whether VGD is greater than or lesser that Vt
+
+For VGD=VG-VD=1.6-1.70
+
+VGD = -0.10 , but Vt=0.489V
+
+Hence VGD<Vt; therefore mosfets are in saturation region.
+
 The give Vicm is 1.6 v let change it by increasing 1v and let observe the changes 
 
 ![1000039985](https://github.com/user-attachments/assets/81bbf5d4-b481-4a21-96ee-4965a1fcad2e)
