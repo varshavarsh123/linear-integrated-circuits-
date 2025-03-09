@@ -285,7 +285,7 @@ Theoretical calculations assume ideal MOSFETs, while real MOSFETs suffer from pr
 
 These non-idealities limit the expected performance improvement.
 
-Conclusion
+## Conclusion
 
 The resistor-based circuit performed better than expected, likely due to reduced parasitic effects.
 
