@@ -21,3 +21,4 @@ It's useful in reducing noise and is commonly used in devices like op-amps and c
 ![Uploading 1000039886.jpg…]()
 
 
+
