@@ -87,6 +87,8 @@ But for the exact output voltage of 1.7 v we get little more current where it ex
 
 ![1000039977](https://github.com/user-attachments/assets/887b6a46-aee2-4fa8-9cca-5e375b7bd470)
 
+Now this Operating point is under our power budget .
+
 
 
 
