@@ -89,6 +89,14 @@ But for the exact output voltage of 1.7 v we get little more current where it ex
 
 Now this Operating point is under our power budget .
 
+In the data sheet of ltspice the treshold voltage mentioned as 0.366v
+but while doing dc analysis the treshold voltage is changed to 0.489v thi is due to body effect.
+
+The give Vicm is 1.6 v let change it by increasing 1v and let observe the changes 
+
+![1000039985](https://github.com/user-attachments/assets/81bbf5d4-b481-4a21-96ee-4965a1fcad2e)
+
+
 
 
 
