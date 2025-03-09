@@ -147,6 +147,13 @@ nagetive sing inticates 180 degree phase shift
 
 # AC Analysis
 
+![1000040012](https://github.com/user-attachments/assets/9410f990-335f-4faa-8040-4e4a465d6c3c)
+
+
+From the graph the gain in db scale is 11.183db-3db= 8.183db
+
+
+
 
 
 
