@@ -42,6 +42,28 @@ Let's assume for the moment that the transistors are in saturation. The equation
 
 Given that the drain current is already established by the current source and the gates are tied to the ground node, the source voltage will settle on whatever value creates a gate-to-source voltage V_gs corresponding to a drain current of I_bias/2
 
+# Design
+
+Given p=2.8mW
+
+since p=VddxIss
+
+Iss = p/Vdd = 2.8m/3.2 = 0.875mA
+
+I1=I2=Iss/2 = 0.4375mA
+
+Applying KVL along the loop
+
+Vdd-I1Rd-Vocm1=0
+
+Rd=(Vdd-Vocm)/I1
+
+Rd=(3.2-1.7)/0.4375x10^-3
+
+Rd=3428ohm
+Rss=Vp/Iss = 0.6/0.875m
+
+Rss=685.7ohm
 
 
 
