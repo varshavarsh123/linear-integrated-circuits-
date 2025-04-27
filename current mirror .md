@@ -173,7 +173,8 @@ The frequency for this particular dB is 547.86MHz, the bandwidth can be calculat
 i.e 0.55m / 3 = 0.183mA. <br>
 Hence, I<sub>ref</sub> = 0.183mA and I<sub>d</sub> = 0.3667mA </p><br>
 
-![Image](https://github.com/user-attachments/assets/b4eb2241-ea1c-4724-91da-f5ac913f3a37)
+![1000049945](https://github.com/user-attachments/assets/0e1e6d3c-d91c-441e-a107-f0e35e8f1a21)
+
 
  <table> 
 <tr>
