@@ -96,7 +96,8 @@ For I<sub>ref</sub> = 100u <br>
 
 ![Image](https://github.com/user-attachments/assets/ab20f49b-39cb-4204-8bd2-152356b42753)
 
-![Image](https://github.com/user-attachments/assets/e8508c33-aa2b-4eed-a81f-95e4393dcfb5)
+![1000049942](https://github.com/user-attachments/assets/eab24b2a-c22c-4478-9642-2f0a06f7310c)
+
 
 
 
