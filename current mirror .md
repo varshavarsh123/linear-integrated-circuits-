@@ -261,9 +261,10 @@ The frequency for this particular dB is 547.86MHz, the bandwidth can be calculat
 ## Case-2 - 500nm Length
 **1:1 aspect ratio**
 
-## DC Ananlysis
+## DC Analysis 
 
-![Image](https://github.com/user-attachments/assets/43ef5739-1fd6-46fa-81a0-a1d131d98df9)
+![Uploading 1000049955.png…]()
+
 
  <table> 
 <tr>
