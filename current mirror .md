@@ -550,3 +550,18 @@ The frequency for this particular dB is 10.656MHz, the bandwidth can be calculat
 ![Image](https://github.com/user-attachments/assets/ba221a2d-1d48-407a-bee6-5328fd916c62)
 
 <p> gain is 21.760dB.</p><br>
+
+# Conclusion:
+
+In this experiment, a current mirror circuit was successfully designed for a gain of AV = -10 V/V with Vdd = 1.8V and power consumption below 1mW. Both DC and AC analyses were performed for mirror ratios of 1:1 and 1:2 while varying the MOSFET length from 180nm to 500nm to 1µm. It was observed that as the length increased, the output voltage decreased slightly, and the gain behavior changed. However, the current mirror maintained proper operation across different aspect ratios and lengths, with the output current accurately mirroring the reference current as per the design.
+
+
+# Inference:
+
+The current mirror circuit accurately mirrors the reference current at different aspect ratios (1:1 and 1:2).
+
+Increase in channel length results in a slight decrease in output voltage and impacts gain and bandwidth.
+
+The power constraint (P ≤ 1mW) and the desired gain (AV = -10V/V) were successfully achieved across all cases.
+
+The circuit stability and performance remain good across different W/L variations, confirming robustness of the design.
