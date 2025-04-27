@@ -422,7 +422,8 @@ The frequency for this particular dB is 547.86MHz, the bandwidth can be calculat
 
 ## DC Analysis
 
-![Image](https://github.com/user-attachments/assets/150a4a62-1f91-455b-b0a5-edf756c54b39)
+![1000049957](https://github.com/user-attachments/assets/23da6fd5-39cd-4af9-a909-38b34cd60938)
+
 <p> From dc analysis:
 Vout = 0.293177v, which is equal to Vx
 Iref = Id = 277µA</p><br>
