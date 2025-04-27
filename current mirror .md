@@ -536,7 +536,8 @@ The frequency for this particular dB is 10.656MHz, the bandwidth can be calculat
 
 ## DC Analysis
 
-![Image](https://github.com/user-attachments/assets/ebf0500c-c22a-4400-aa82-f74022dd2965)
+![1000049959](https://github.com/user-attachments/assets/3246fb52-1a81-47a7-a598-9cf939bd9b53)
+
 <p> here the width is = 1.69991u</p><br>
 
 ## Transient Analysis
